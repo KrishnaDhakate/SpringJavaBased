@@ -288,7 +288,7 @@ input[type=text]:placeholder {
 
     <!-- Remind Passowrd -->
     <div id="formFooter">
-      <!-- <a class="underlineHover" href="#">Forgot Password?</a> -->
+      <a class="underlineHover" href="#">Forgot Password?</a>
      
     </div>
 
